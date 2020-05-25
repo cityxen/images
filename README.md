@@ -8,7 +8,7 @@ Brand new images created for older retro machines. You may use these images free
 
 History:
 
-Amiga Ireland 2020 Compo (5th place)
+CityXen Yin Yang Amiga 500 OCS DPaint 3 300x200 - Amiga Ireland 2020 Compo (5th place)
 ![AmigaIreland2020](https://github.com/cityxen/images/raw/master/AmigaIreland-2020/CityXen-YinYang-2020-3-AmigaIreland-Compo.png)
 
 Ominous Foreshadowing (PETSCII Art)
